@@ -2,20 +2,26 @@
   
   # Okan Malas
   
-  **Yazılım Geliştirici & Sistem Meraklısı**
+  **Bilgisayar Mühendisi Adayı & Sistem Tasarımcısı & Backend Developer**
   
   Konya, Türkiye
   
   <br>
 
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <br>
+  ![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
   ![Verilog](https://img.shields.io/badge/Verilog-1A1A1A?style=for-the-badge&logo=microchip&logoColor=white)
   ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 
 </div>
 
@@ -23,32 +29,42 @@
 
 ## Hakkımda
 
-Merhabalar, ben Okan. Yazılımın soyut dünyası ile donanımın fiziksel gerçekliğini bir araya getiren sistemler üzerine çalışıyorum. Yalnızca kod yazmakla kalmıyor, geliştirdiğim sistemlerin arka planda makine seviyesinde nasıl işlediğini anlamaya da büyük özen gösteriyorum.
+Merhabalar, ben Okan. Konya Teknik Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Akademik eğitimim boyunca edindiğim mühendislik disiplinini, sistemlerin hem soyut yazılım katmanlarını hem de fiziksel donanım mimarilerini anlamak üzerine şekillendirdim.
 
-Temel odak noktam, **.NET** mimarisi üzerinde ölçeklenebilir arka uç (backend) sistemleri inşa etmek. Bununla birlikte, lojik devre tasarımı ve ağ mimarilerine olan derin ilgim, yazılım süreçlerine çok daha analitik ve sistem bazlı bir perspektiften yaklaşmamı sağlıyor.
+Problem çözmeyi ve sadece çalışan değil, aynı zamanda sürdürülebilir altyapılar inşa etmeyi seviyorum. Temel odak noktam .NET ekosistemi üzerinde arka uç (backend) mimarileri geliştirmek olsa da; donanım tanımlama dilleri, ağ haberleşmesi ve sistem entegrasyonları gibi konulara duyduğum ilgi, olaylara çok daha bütünsel bir perspektiften bakmamı sağlıyor.
 
 ---
 
 ## Teknik İlgi ve Uzmanlık Alanları
 
 ### Yazılım ve Altyapı
-Modern yazılım geliştirme süreçlerinde güçlü ve sürdürülebilir altyapılar kurmaya odaklanıyorum.
-* **Arka Uç (Backend):** C# ve .NET kullanarak nesne yönelimli, güvenilir mimariler geliştiriyorum.
-* **Geliştirme Araçları:** Kod versiyonlama için Git, API testleri ve dokümantasyon süreçleri için Postman kullanıyorum. Sistemleri konteyner mimarisiyle izole etmek için Docker üzerinde aktif olarak çalışıyorum.
-* **Masaüstü Geliştirme:** Temel düzeyde görsel arayüz (UI) bileşenleri kurgulamak için Java (Swing) projeleri geliştiriyorum.
+Modern yazılım geliştirme süreçlerinde güvenilir ve ölçeklenebilir altyapılar kurmaya odaklanıyorum.
+* **Arka Uç (Backend):** C#, ASP.NET Core ve Entity Framework Core kullanarak nesne yönelimli, katmanlı mimariler geliştiriyorum.
+* **Veritabanı ve Entegrasyon:** SQL tabanlı ilişkisel veritabanı tasarımları yapıyor, API entegrasyonları ve test süreçleri için Postman kullanıyorum.
+* **Araçlar ve Süreç Yönetimi:** Versiyon kontrolü için Git/GitHub, süreç planlaması için Miro ve sistemleri izole etmek adına Docker mimarilerini kullanıyorum.
+* **Masaüstü Geliştirme:** Modern ve yerel Windows deneyimleri sunan masaüstü arayüzleri inşa etmek için WinUI 3 teknolojisi üzerinde çalışıyorum.
 
 ### Donanım ve Alçak Seviye (Low-Level) Tasarım
-Hobiden öte bir tutku olarak donanım mimarileriyle ilgileniyorum.
-* **Lojik Tasarım:** Verilog HDL kullanarak dijital devre seviyesinde çalışmalar yapıyor, sistemlerin temel mantık kapılarından nasıl inşa edildiğini inceliyorum.
-* **Havacılık ve Telemetri:** RC planör ve drone sistemlerinin aerodinamik prensipleri (eliptik kanat tasarımları, dihedral açı hesaplamaları) üzerine çalışıyorum. Pixhawk uçuş kontrolcüleri ve 5.1 - 5.9 GHz bantlarındaki haberleşme frekansları gibi donanım spesifikasyonları ile doğrudan ilgileniyorum.
+Yazılımı fiziksel dünyayla buluşturan donanım mimarilerini incelemekten keyif alıyorum.
+* Verilog HDL kullanarak dijital devre seviyesinde çalışmalar yapıyor, sistemlerin temel mantık kapılarından nasıl inşa edildiğini inceliyorum. Otonom RC sistemler ve havacılık prensipleri hobi olarak ilgilendiğim alanlar arasında.
 
 ### Ağ Mimarileri (Networking)
-Sistemlerin birbiriyle nasıl konuştuğunu anlamak, yazılım mimarilerimi güçlendiren en önemli unsurlardan biri.
-* Cisco Packet Tracer üzerinde ağ simülasyonları gerçekleştiriyorum.
-* Detaylı IP adresleme, temel anahtarlama (switching) yapılandırmaları ve yönlendirme (RIP, OSPF) protokollerinin çalışma mantığı üzerine pratikler yapıyorum.
+* Cisco sistemleri ve ağ altyapıları üzerine simülasyonlar yaparak donanım/yazılım haberleşmesini hobi olarak inceliyorum.
+
+---
+
+## İletişim
+
+<div align="center">
+  <a href="mailto:okan6okan6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail ile Ulaşın" />
+  </a>
+</div>
+
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okanmalas&show_icons=true&theme=transparent&hide_border=true&title_color=5C2D91&icon_color=2496ED&text_color=333333" alt="Okan Malas GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okanmalas&show_icons=true&theme=transparent&hide_border=true&title_color=512BD4&icon_color=2496ED&text_color=333333" alt="Okan Malas GitHub Stats" />
 </div>
