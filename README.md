@@ -64,7 +64,3 @@ Yazılımı fiziksel dünyayla buluşturan donanım mimarilerini incelemekten ke
 <br>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okanmalas&show_icons=true&theme=transparent&hide_border=true&title_color=512BD4&icon_color=2496ED&text_color=333333" alt="Okan Malas GitHub Stats" />
-</div>
